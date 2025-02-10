@@ -1,7 +1,7 @@
-(class_declaration
+(decl_class
   name: (identifier) @name
   (#set! "kind" "Class")) @symbol
 
-(enum_declaration
+(decl_enum
   name: (identifier) @name
   (#set! "kind" "Enum")) @symbol
