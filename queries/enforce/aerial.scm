@@ -4,7 +4,7 @@
 
 (decl_method
   name: (identifier) @name
-  (#set! "kind" "Function")) @symbol
+  (#set! "kind" "Method")) @symbol
 
 (decl_enum
   typename: (identifier) @name
